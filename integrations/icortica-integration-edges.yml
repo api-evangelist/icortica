@@ -1,0 +1,16 @@
+generated: '2026-10-24'
+method: none
+source:
+- https://zapier.com/apps/icortica/integrations
+- https://n8n.io/integrations/icortica/
+- https://composio.dev/toolkits/icortica
+- https://monid.ai/tools/icortica
+checked:
+- https://composio.dev/toolkits/icortica
+- https://monid.ai/tools/icortica
+- https://n8n.io/integrations/icortica/
+- https://zapier.com/apps/icortica/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []

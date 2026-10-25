@@ -1,0 +1,51 @@
+# icortica
+
+> icortica is a customer intelligence platform for dental laboratories. It connects a
+> lab's existing systems and data, surfaces where revenue and retention risk actually
+> sit, and gives sales representatives a specific set of actions to take for each
+> account.
+
+icortica, Inc — 89 Villa Street, Waltham, MA 02453, USA — +1 617-333-8306
+
+## What the product does
+
+- [How it works](https://www.icortica.com/how-it-works): the three-step setup —
+  connecting existing systems, configuring to the lab's processes, and training — plus
+  the Game Plan feature that recommends per-account actions.
+- [Game Plan](https://www.icortica.com/game-plan): the AI feature in depth — the
+  customer-data signals it reads and the prioritized, drafted actions it hands reps.
+- [Integrations](https://www.icortica.com/integrations): the lab-management systems,
+  accounting platforms and marketing tools icortica connects to.
+- [ROI calculator](https://www.icortica.com/roi): estimates the revenue impact of
+  improving onboarding, churn and customer counts.
+
+## Who it is for
+
+- [Dental laboratories](https://www.icortica.com/dental-laboratories)
+- [Distributors](https://www.icortica.com/distributors)
+- [Owners and C-suite](https://www.icortica.com/ceo)
+- [Managers](https://www.icortica.com/managers)
+- [Sales representatives](https://www.icortica.com/representatives)
+- [Marketing teams](https://www.icortica.com/marketing)
+
+## Writing
+
+- [Blog index](https://www.icortica.com/blog) — all posts
+- [RSS feed](https://www.icortica.com/blog/rss.xml)
+- [The Real Reason New Technology Goes Unused in Dental Labs](https://www.icortica.com/blog/why-tech-goes-unused-in-dental-labs)
+- [Customer Retention Starts with Onboarding](https://www.icortica.com/blog/customer-retention-starts-with-onboarding)
+- [4 Ways Dental Labs Can Build Long-Term Customer Loyalty](https://www.icortica.com/blog/4-ways-dental-labs-can-build-long-term-customer-loyalty)
+- [The Dabbler](https://www.icortica.com/blog/the-dabbler) — on share of wallet and
+  revenue decay
+- [Off-the-shelf CRMs vs. icortica](https://www.icortica.com/blog/off-the-shelf-crms-vs-icortica)
+
+## Company
+
+- [About](https://www.icortica.com/about)
+- [Book a demo](https://www.icortica.com/book-a-demo)
+- [Customer testimonials](https://www.icortica.com/wall-of-love)
+- [Privacy policy](https://www.icortica.com/privacy)
+
+## Optional
+
+- [Full XML sitemap](https://www.icortica.com/sitemap-index.xml)
